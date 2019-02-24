@@ -2,7 +2,164 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\1744 FOX\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\1744 FOX\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_soundapp.-366148748.00" t="ExcludeRecursive" />
-    <e p="D:\tmp\soundlab\soundlab\mobile\soundapp" t="IncludeFlat" />
+    <e p="C:\Users\1744 FOX\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_soundapp.-56527161.00" t="ExcludeRecursive" />
+    <e p="D:\devel\designlab\soundlab\mobile\soundapp" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ResonanceAudio" t="Include">
+          <e p="Demos" t="Include">
+            <e p="Environment" t="Include">
+              <e p="ResonanceAudioDemo" t="Include">
+                <e p="CubeRoomUnlitGrayscale.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="DemoPlayerController.cs" t="Include" />
+              <e p="ResonanceAudioDemo" t="Include">
+                <e p="ResonanceAudioDemoCubeController.cs" t="Include" />
+                <e p="ResonanceAudioDemoManager.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="ResonanceAudioBuildProcessor.cs" t="Include" />
+            <e p="ResonanceAudioListenerEditor.cs" t="Include" />
+            <e p="ResonanceAudioMaterialMapEditor.cs" t="Include" />
+            <e p="ResonanceAudioReverbBakingWindow.cs" t="Include" />
+            <e p="ResonanceAudioReverbComputer.cs" t="Include" />
+            <e p="ResonanceAudioReverbProbeEditor.cs" t="Include" />
+            <e p="ResonanceAudioRoomEditor.cs" t="Include" />
+            <e p="ResonanceAudioSourceEditor.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="ResonanceAudio.cs" t="Include" />
+            <e p="ResonanceAudioAcousticMesh.cs" t="Include" />
+            <e p="ResonanceAudioListener.cs" t="Include" />
+            <e p="ResonanceAudioMaterialMap.cs" t="Include" />
+            <e p="ResonanceAudioMaterialMapper.cs" t="Include" />
+            <e p="ResonanceAudioMaterialMapperUpdater.cs" t="Include" />
+            <e p="ResonanceAudioReverbProbe.cs" t="Include" />
+            <e p="ResonanceAudioRoom.cs" t="Include" />
+            <e p="ResonanceAudioRoomManager.cs" t="Include" />
+            <e p="ResonanceAudioSource.cs" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="ResonanceAudioSurfaceMaterial.shader" t="Include" />
+          </e>
+        </e>
+        <e p="SocketIO" t="Include">
+          <e p="JSONObject" t="Include">
+            <e p="Editor" t="Include">
+              <e p="JSONChecker.cs" t="Include" />
+            </e>
+            <e p="JSONObject.cs" t="Include" />
+            <e p="JSONTemplates.cs" t="Include" />
+            <e p="readme.txt" t="Include" />
+            <e p="VectorTemplates.cs" t="Include" />
+          </e>
+          <e p="MeuTeste.cs" t="Include" />
+          <e p="readme.txt" t="Include" />
+          <e p="Scripts" t="Include">
+            <e p="SocketIO" t="Include">
+              <e p="Ack.cs" t="Include" />
+              <e p="Decoder.cs" t="Include" />
+              <e p="Encoder.cs" t="Include" />
+              <e p="EnginePacketType.cs" t="Include" />
+              <e p="Packet.cs" t="Include" />
+              <e p="Parser.cs" t="Include" />
+              <e p="SocketIOComponent.cs" t="Include" />
+              <e p="SocketIOEvent.cs" t="Include" />
+              <e p="SocketIOException.cs" t="Include" />
+              <e p="SocketPacketType.cs" t="Include" />
+            </e>
+            <e p="Test" t="Include">
+              <e p="TestSocketIO.cs" t="Include" />
+            </e>
+          </e>
+          <e p="WebsocketSharp" t="Include">
+            <e p="AssemblyInfo.cs" t="Include" />
+            <e p="ByteOrder.cs" t="Include" />
+            <e p="CloseEventArgs.cs" t="Include" />
+            <e p="CloseStatusCode.cs" t="Include" />
+            <e p="CompressionMethod.cs" t="Include" />
+            <e p="ErrorEventArgs.cs" t="Include" />
+            <e p="Ext.cs" t="Include" />
+            <e p="Fin.cs" t="Include" />
+            <e p="HandshakeBase.cs" t="Include" />
+            <e p="HandshakeRequest.cs" t="Include" />
+            <e p="HandshakeResponse.cs" t="Include" />
+            <e p="LogData.cs" t="Include" />
+            <e p="Logger.cs" t="Include" />
+            <e p="LogLevel.cs" t="Include" />
+            <e p="Mask.cs" t="Include" />
+            <e p="MessageEventArgs.cs" t="Include" />
+            <e p="net" t="Include">
+              <e p="AuthenticationBase.cs" t="Include" />
+              <e p="AuthenticationChallenge.cs" t="Include" />
+              <e p="AuthenticationResponse.cs" t="Include" />
+              <e p="AuthenticationSchemes.cs" t="Include" />
+              <e p="Chunk.cs" t="Include" />
+              <e p="ChunkedRequestStream.cs" t="Include" />
+              <e p="ChunkStream.cs" t="Include" />
+              <e p="Cookie.cs" t="Include" />
+              <e p="CookieCollection.cs" t="Include" />
+              <e p="CookieException.cs" t="Include" />
+              <e p="EndPointListener.cs" t="Include" />
+              <e p="EndPointManager.cs" t="Include" />
+              <e p="HttpBasicIdentity.cs" t="Include" />
+              <e p="HTTPConnection.cs" t="Include" />
+              <e p="HttpDigestIdentity.cs" t="Include" />
+              <e p="HttpHeaderInfo.cs" t="Include" />
+              <e p="HttpHeaderType.cs" t="Include" />
+              <e p="HttpListener.cs" t="Include" />
+              <e p="HttpListenerContext.cs" t="Include" />
+              <e p="HttpListenerException.cs" t="Include" />
+              <e p="HttpListenerPrefixCollection.cs" t="Include" />
+              <e p="HttpListenerRequest.cs" t="Include" />
+              <e p="HttpListenerResponse.cs" t="Include" />
+              <e p="HttpStatusCode.cs" t="Include" />
+              <e p="HttpStreamAsyncResult.cs" t="Include" />
+              <e p="HttpUtility.cs" t="Include" />
+              <e p="HttpVersion.cs" t="Include" />
+              <e p="InputChunkState.cs" t="Include" />
+              <e p="InputState.cs" t="Include" />
+              <e p="LineState.cs" t="Include" />
+              <e p="ListenerAsyncResult.cs" t="Include" />
+              <e p="ListenerPrefix.cs" t="Include" />
+              <e p="NetworkCredential.cs" t="Include" />
+              <e p="QueryStringCollection.cs" t="Include" />
+              <e p="ReadBufferState.cs" t="Include" />
+              <e p="RequestStream.cs" t="Include" />
+              <e p="ResponseStream.cs" t="Include" />
+              <e p="security" t="Include">
+                <e p="SslStream.cs" t="Include" />
+              </e>
+              <e p="WebHeaderCollection.cs" t="Include" />
+              <e p="WebSockets" t="Include">
+                <e p="HttpListenerWebSocketContext.cs" t="Include" />
+                <e p="TcpListenerWebSocketContext.cs" t="Include" />
+                <e p="WebSocketContext.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Opcode.cs" t="Include" />
+            <e p="PayloadData.cs" t="Include" />
+            <e p="Rsv.cs" t="Include" />
+            <e p="WebSocket.cs" t="Include" />
+            <e p="WebSocketException.cs" t="Include" />
+            <e p="WebSocketFrame.cs" t="Include" />
+            <e p="WebSocketState.cs" t="Include" />
+            <e p="WebSocketStream.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="soundapp.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
   </component>
 </project>
